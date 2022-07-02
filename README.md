@@ -3,7 +3,7 @@
 ### HTML/CSS Template for DT4 Web 2022
 
 How to use these files:
-1. Got to the green USE THIS TEMPLATE button
+1. Click on the green USE THIS TEMPLATE button
 2. Create a new repository in your own Github
 3. OPEN in Visual Studio Code
 4. CUSTOMISE with your own typography, colours, images, and layout.
